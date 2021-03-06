@@ -1,0 +1,10 @@
+rest_time_in_minutes:
+5
+no_of_chromes:
+10
+program_close_down_time_in_minutes:
+5
+delay_before_recognition_in_seconds:
+5
+scroll_value:
+75

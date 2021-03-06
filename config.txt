@@ -8,3 +8,5 @@ delay_before_recognition_in_seconds:
 5
 scroll_value:
 75
+password:
+PUT_password_here

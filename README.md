@@ -4,5 +4,5 @@ Coded by Coding Medic
 
 Contact me at codingmedic@protonmail.com
 
-Check LINCESE for agreement
+Check LICENSE for agreement
 
